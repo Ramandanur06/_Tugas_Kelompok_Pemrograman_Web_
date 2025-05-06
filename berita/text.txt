@@ -1,0 +1,14 @@
+<?= base_url('/penulis') ?>
+
+'featured_image' => [
+                'type' => 'VARCHAR',
+                'constraint' => 255,
+                'null' => true,
+            ],
+
+
+            <div class="text-center">
+                    <img class="img-fluid rounded-circle" src="<?= base_url('assets/img/' . $user['featured_image']) ?>" alt="Foto Profil" width="150">
+                </div>
+
+                                    <p><strong>Bio:</strong> <?= esc($user['bio']) ?></p>
