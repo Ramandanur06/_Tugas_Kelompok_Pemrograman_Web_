@@ -1,5 +1,5 @@
 ## 🔐 Halaman Login
-📷 ![WhatsApp Image 2025-05-07 at 17 12 29_55669f32](https://github.com/user-attachments/assets/2272fee3-6d97-4252-8970-bb294d1556ce)
+![WhatsApp Image 2025-05-07 at 17 12 29_55669f32](https://github.com/user-attachments/assets/2272fee3-6d97-4252-8970-bb294d1556ce)
 
 Halaman login digunakan oleh semua pengguna untuk masuk ke sistem. User memasukkan username dan password untuk mendapatkan akses sesuai rolenya (admin, penulis, atau user biasa).
 
