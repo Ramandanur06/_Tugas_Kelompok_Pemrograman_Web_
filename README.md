@@ -2,8 +2,8 @@
 1. Dimas Galang(312310201)  
 2. Ramanda Nur  (312310186)
 3. Muhammad Alghofiqi (312310207) 
-4. Gilang Ramadhan P  *(312310203)*
-5. Astian Handal Cahya Putra  *(312310527)*
+4. Gilang Ramadhan P  (312310203)
+5. Astian Handal Cahya Putra  (312310527)
 ## 🔐 Halaman Login
 ![WhatsApp Image 2025-05-07 at 17 12 29_55669f32](https://github.com/user-attachments/assets/2272fee3-6d97-4252-8970-bb294d1556ce)
 
